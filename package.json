@@ -33,7 +33,7 @@
     "eslint-plugin-react-hooks": "^4.2.0",
     "jest": "^27.0.3",
     "prettier": "=2.3.0",
-    "vite": "^2.5.8",
+    "vite": "^2.9.13",
     "@gliff-ai/style": "^1.1.0"
   }
 }
